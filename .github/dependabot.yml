@@ -47,4 +47,4 @@ updates:
         patterns: 
           - "*"
         update-types:
-          - "major
+          - "major"
