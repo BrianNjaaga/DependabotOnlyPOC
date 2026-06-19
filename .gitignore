@@ -1,0 +1,39 @@
+## Core .NET and Build Outputs
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+## Visual Studio Cache and User Settings
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Rider and JetBrains IDEs
+.idea/
+*.sln.iml
+
+## Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+## .NET Core / .NET User Secrets & Local Storage
+.history/
+ecf/
+libquickstart.a
+
+## Publish Output & Packages
+*.nupkg
+*.snupkg
+publish/
+
+## Crash Logs & Diagnostics
+*.log
+*.binlog
+mono_crash.*
